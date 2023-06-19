@@ -2,9 +2,9 @@
 Dies ist ein Java-Programm, das zeigt, wie man mithilfe der ThingWorx REST API einen Eigenschaftswert in ThingWorx aktualisiert. Das Programm sendet eine HTTP PUT-Anfrage an den ThingWorx-Server mit den bereitgestellten Anmeldedaten und aktualisiert den Wert einer bestimmten Eigenschaft.
 
 ## Voraussetzungen
-Installierte Java Development Kit (JDK)
-Internetverbindung
-Zugriff auf den ThingWorx-Server
+1. Installierte Java Development Kit (JDK)
+2. Internetverbindung
+3. Zugriff auf den ThingWorx-Server
 
 ## Erklärung
 1. Es werden die erforderlichen Klassen importiert.
