@@ -1,4 +1,3 @@
-# ThingsworkJavaClient
 # ThingWorxClient
 
 This is a Java program that demonstrates how to update a property value in ThingWorx using the ThingWorx REST API. The program sends an HTTP PUT request to the ThingWorx server with the provided credentials and updates the value of a specific property.
